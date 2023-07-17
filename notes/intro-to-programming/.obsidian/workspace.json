@@ -18,6 +18,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "58830757086850a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tailwind.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -48,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "#todo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +77,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -167,8 +180,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1f253b8f8e446eb9",
+  "active": "c05b0d05e6c9b2fb",
   "lastOpenFiles": [
+    "DaisyUI.md",
+    "Tailwind.md",
     "2023-07-17.md",
     "2023-07-16.md"
   ]

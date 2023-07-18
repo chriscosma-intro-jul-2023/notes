@@ -1,1 +1,2 @@
 - [TypeScript playground](typescriptlang.org)
+- A module is a file that exports something

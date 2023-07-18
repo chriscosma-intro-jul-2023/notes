@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "bd6eed11244d24b1",
+        "id": "0ce91fb10c3194b8",
         "type": "tabs",
         "children": [
           {
-            "id": "4f4919d7c86054d0",
+            "id": "ae67257b3d2ab0a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-07-17.md",
+                "file": "2023-07-18.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c23c6d19be325c61",
+            "id": "16a01ea241c9e4b5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TypeScript.md",
+                "file": "2023-07-18.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-07-17.md"
+                "file": "2023-07-18.md"
               }
             }
           }
@@ -133,7 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-07-17.md",
+                "file": "2023-07-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-07-17.md",
+                "file": "2023-07-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,12 +179,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4f4919d7c86054d0",
+  "active": "ae67257b3d2ab0a0",
   "lastOpenFiles": [
-    "TypeScript.md",
-    "2023-07-17.md",
-    "DaisyUI.md",
     "Angular.md",
+    "2023-07-18.md",
+    "2023-07-17.md",
+    "CI.md",
+    "TypeScript.md",
+    "DaisyUI.md",
     "Tailwind.md",
     "Questions.md",
     "2023-07-16.md"

@@ -1,0 +1,2 @@
+- TDD forces us to only push code to production that can be tested
+- 

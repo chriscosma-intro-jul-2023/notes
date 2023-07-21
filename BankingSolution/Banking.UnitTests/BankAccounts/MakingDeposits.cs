@@ -6,13 +6,14 @@ namespace Banking.UnitTests.BankAccounts
         [Fact]
         public void DepositsIncreaseTheBalance()
         {
-            var account = new BankAccount();
+            var account = new BankAccount(new Mock<ICanCalculateBonusesForBankAccountDeposits>().Object);
             var openingBalance = account.GetBalance();
             var amountToDeposit = 100.23M;
 
             account.Deposit(amountToDeposit);
 
             Assert.Equal(openingBalance + amountToDeposit, account.GetBalance());
+     
         }
     }
 }

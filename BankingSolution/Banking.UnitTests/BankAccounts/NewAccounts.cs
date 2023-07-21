@@ -6,7 +6,7 @@ namespace Banking.UnitTests.BankAccounts
         [Fact]
         public void NewAccountsHaveCorrectOpeningBalance()
         {
-            var account = new BankAccount();
+            var account = new BankAccount(new Mock<ICanCalculateBonusesForBankAccountDeposits>().Object);
 
             decimal balance = account.GetBalance();
 

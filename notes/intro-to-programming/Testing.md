@@ -21,7 +21,7 @@ In order of importance:
 Note: nothing here about performance, but that doesn't mean performance isn't important at all.
 	- If there's a performance requirements, you write a performance-related test
 
-## xTest
+## xUnit
 - Looks for methods with `public void SomeTest`  marked with `[Fact]` decorator or `[Test]` decorator
 	- `[Test]` is used for doing the same test with different data
 - Can run `dotnet watch test` or `dotnet test` in project directory or in Visual Studio
@@ -35,3 +35,6 @@ Note: nothing here about performance, but that doesn't mean performance isn't im
 	- "Code Smells"
 - (optional) COMMIT: Commit the feature
 - Repeat
+- Unit tests should not touch the network, databases, IO, time, etc. because they change all the time and unit tests should be pure
+	- We will often kick the can down the road of responsibility to create dependencies which will lead to a composition root
+	- We mock dependencies to keep tests pure

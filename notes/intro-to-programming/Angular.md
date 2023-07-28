@@ -45,6 +45,7 @@
 - Pages are things you route to, components are things you use by selector
 - You could kind of route with anchor `href` but that's actually reloading the page which is not what we want. Instead, we use `routerLink`.
 - We can use `[routerLinkActive]` to set classes based on the active link
+- Lazy loading lets you split compilation into different source files allowing frequently updated features to be downloaded separately
 
 ## Template Variables, Outputs
 Here, `#thing` is a template variable and `(click)` is an output:

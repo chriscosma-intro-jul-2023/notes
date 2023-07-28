@@ -1,0 +1,12 @@
+- Flux Architecture
+	- Components own no data
+	- Goes against OOP
+	- All data is stored in a global, immutable object (aka. application state)
+	- There is only one place in the app that can create a new state
+- Components responsibility
+	- User interface is components
+	- Take some data (state) and make it pretty
+		- State is a function of data and time
+	- Kind of like a function that given some data, it creates DOM
+	- Accurately project the application state to the user
+	- Provide affordances in which the user can interact with the application

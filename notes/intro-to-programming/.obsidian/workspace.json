@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ae67257b3d2ab0a0",
+            "id": "955b8777ec1ec19c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Angular.md",
+                "file": "2023-07-26.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "48e0168d25e3b928",
+            "id": "9855024e76bfb007",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Testing.md",
+                "file": "Angular.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Testing.md"
+                "file": "Angular.md"
               }
             }
           }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Testing.md",
+                "file": "Angular.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Testing.md",
+                "file": "Angular.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,12 +180,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "48e0168d25e3b928",
+  "active": "9855024e76bfb007",
   "lastOpenFiles": [
+    "2023-07-27.md",
+    "Microservices.md",
+    "2023-07-26.md",
+    "State Management.md",
+    "2023-07-25.md",
+    "2023-07-24.md",
+    "Angular.md",
+    "Testing.md",
     "2023-07-21.md",
     "2023-07-20.md",
-    "Testing.md",
-    "Angular.md",
     "C Sharp .NET.md",
     "CI.md",
     "Tailwind.md",
